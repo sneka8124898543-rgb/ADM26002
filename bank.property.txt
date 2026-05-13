@@ -1,0 +1,4 @@
+bank.name=icici
+bank. Address=Chennai
+bank. Branch=Vada Palani
+bank.Cname=sneka
